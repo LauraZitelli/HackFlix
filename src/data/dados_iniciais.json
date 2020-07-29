@@ -100,24 +100,28 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Suits",
+      "cor": "white",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Suits Season 3",
+          "url": "https://www.youtube.com/watch?v=FabgkDRdXSw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Suits Season 4",
+          "url": "https://www.youtube.com/watch?v=90ZJTQUOhzM"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Suits Season 5",
+          "url": "https://www.youtube.com/watch?v=Pcl6_dcwT4g"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Suits Season 6",
+          "url": "https://www.youtube.com/watch?v=708Y03Gi8l8"
+        },
+        {
+          "titulo": "Suits Season 7",
+          "url": "https://www.youtube.com/watch?v=Ab2YIbP5xw8"
         }
       ]
     },
