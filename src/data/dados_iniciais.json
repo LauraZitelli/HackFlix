@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Lucifer",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#A40606",
+      "link_extra": {
+        "text": "I Am The Devil",
+        "url": "https://www.youtube.com/watch?v=X4bF_quwNtw"
+      },
+      "videos": [
+        {
+          "titulo": "Lucifer: Season 1 now avaiable #HotLikeHell",
+          "url": "https://www.youtube.com/watch?v=X4bF_quwNtw"
+        },
+        {
+          "titulo": "Lucifer Season 2",
+          "url": "https://www.youtube.com/watch?v=BpyVaZjg8yY"
+        },
+        {
+          "titulo": "Lucifer Season 3",
+          "url": "https://www.youtube.com/watch?v=5-nvzqnEtCw"
+        },
+        {
+          "titulo": "Lucifer Season 4",
+          "url": "https://www.youtube.com/watch?v=IGKShjoRV3Q"
+        },
+        {
+          "titulo": "Lucifer Season 5",
+          "url": "https://www.youtube.com/watch?v=NcnK3C5W7SI&t=4s"
+        },
+        {
+          "titulo": "Lucifer sings 'Sinnerman'",
+          "url": "https://www.youtube.com/watch?v=J7yMzfplUco"
+        },
+        {
+          "titulo": "Lucifer sings 'I Will Surviver'",
+          "url": "https://www.youtube.com/watch?v=ez630vrXy2Q"
+        },
+        {
+          "titulo": "Lucifer sings 'Creep'",
+          "url": "https://www.youtube.com/watch?v=MHjd47Uye8Y"
+        }        
+      ]
+    },
+    {
+      "titulo": "Dark",
+      "cor": "#FAC612",
+      "link_extra": {
+        "text": "Der Anfang Ist Das Ende",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Dark Season 1",
+          "url": "https://www.youtube.com/watch?v=rrwycJ08PSA"
+        },
+        {
+          "titulo": "Dark Season 2",
+          "url": "https://www.youtube.com/watch?v=N9PgvAGSgMY"
+        },
+        {
+          "titulo": "Dark Season 3",
+          "url": "https://www.youtube.com/watch?v=cq2iTHoLrt0"
+        },
+        {
+          "titulo": "Árvore Genealógica de Dark",
+          "url": "https://www.youtube.com/watch?v=mXhtPS9ksyw"
+        }, 
+        {
+          "titulo": "Dark Cast Saying Goodbye",
+          "url": "https://www.youtube.com/watch?v=ohCUd6j8V3w"
+        }
+      ]
+    },
+    {
+      "titulo": "Sense8",
+      "cor": "#008F12",
+      "link_extra": {
+        "text": "Connected By Mind",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Sense8 Season 1",
+          "url": "https://www.youtube.com/watch?v=iKpKAlbJ7BQ"
+        },
+        {
+          "titulo": "Sense8 Season 2",
+          "url": "https://www.youtube.com/watch?v=vCRmyEcUciI"
+        },
+        {
+          "titulo": "What's Going On",
+          "url": "https://www.youtube.com/watch?v=gp2JuY5eAVo"
+        },
+        {
+          "titulo": "I Feel You",
+          "url": "https://www.youtube.com/watch?v=A3wY7KOO7NQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
