@@ -47,8 +47,7 @@
       "titulo": "Dark",
       "cor": "#FAC612",
       "link_extra": {
-        "text": "Der Anfang Ist Das Ende",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Der Anfang Ist Das Ende"
       },
       "videos": [
         {
@@ -77,8 +76,7 @@
       "titulo": "Sense8",
       "cor": "#008F12",
       "link_extra": {
-        "text": "Connected By Mind",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Connected By Mind"
       },
       "videos": [
         {
@@ -102,6 +100,9 @@
     {
       "titulo": "Suits",
       "cor": "white",
+      "link_extra": {
+        "text": "The Best Closer"
+      },
       "videos": [
         {
           "titulo": "Suits Season 3",
