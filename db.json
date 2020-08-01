@@ -1,0 +1,22 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Séries",
+      "descricao": "Uma categoria massa",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 2,
+      "nome": "Filmes",
+      "descricao": "Uma categoria mto mto massa",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 3,
+      "nome": "Filmes",
+      "descricao": "Uma categoria mto mto massa",
+      "cor": "#cbd1ff"
+    }
+  ]
+}
